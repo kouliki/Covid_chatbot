@@ -1,2 +1,2 @@
 # Covid_chatbot
-A covid chatbot which basically suggestions after choosing  the  desired symptoms.
+A covid chatbot which basically provide suggestions after choosing  the  desired symptoms.
